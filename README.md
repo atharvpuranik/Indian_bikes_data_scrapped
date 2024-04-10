@@ -4,7 +4,7 @@
 This project aims to scrape bike specifications and highlights from Bikedekho.com for more than 20 bike brands. The scraped data includes various technical specifications and features of each bike.
 
 ### Credits
-The data scraped in this project is sourced from [Bikedekho.com](https://www.bikedekho.com/). All credit for the data goes to Bikedekho.com.
+The data scraped in this project is sourced from [Bikedekho.com](https://www.bikedekho.com/). 
 
 ### Features
 - Scrapes bike specifications and highlights from Bikedekho.com.
