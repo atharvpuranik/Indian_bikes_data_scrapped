@@ -1,7 +1,7 @@
 # Indian_Bikes_scrapped
 ## Bike Specifications Scraper
 
-This project aims to scrape bike specifications and highlights from Bikedekho.com for more than 20 bike brands. The scraped data includes various specifications, highlights, and features of each bike.
+This project aims to scrape bike specifications and highlights from Bikedekho.com for more than 20 bike brands. The scraped data includes various specifications and features of each bike.
 
 ### Credits
 The data scraped in this project is sourced from [Bikedekho.com](https://www.bikedekho.com/). 
